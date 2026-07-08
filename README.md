@@ -1,0 +1,50 @@
+# wGraph（握图）
+
+> Hardware-Software Co-Computing toolchain.
+
+A compiler capable of converting different languages or instruction sets.
+
+## 1. HLS(High Level Synthesis)
+
+Convert LLVM(C/C++/Rust) to Verilog
+
+![wGraph Cli](./doc/wgraph.png)
+
+
+#### Examples
+
+- AES128
+- MNIST Training with [wnum](https://github.com/LonlyWinter/wnum)
+- AV1 Decoder: [coding ...](https://github.com/LonlyWinter/wav1d)
+
+## 2. LLVM-Infra
+
+[![Latest version](https://img.shields.io/crates/v/llvm-infra.svg)](https://crates.io/crates/llvm-infra)
+[![License](https://img.shields.io/badge/license-GPLv3-blue?style=flat)](https://github.com/LonlyWinter/llvm-infra/blob/master/COPYING)
+
+
+LLVM Compiler Infrastructure in Rust
+
+## 3. Linear Programming Solver
+
+coding ...
+
+<!-- 
+
+## 4. TODO
+
+### Hardware
+
+- Logic Synthesis
+- P&R(Place and Route)
+- GDSII
+
+### Software
+
+- Convert LLVM to CUDA
+
+-->
+
+## Author
+
+winter <winter_lonely@foxmail.com>
