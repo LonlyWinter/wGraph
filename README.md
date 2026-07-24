@@ -1,6 +1,6 @@
 # wGraph（握图）
 
-> Hardware-Software Co-Computing toolchain.
+> Hardware-Software Co-Design toolchain.
 
 A compiler capable of converting different languages or instruction sets.
 
@@ -25,25 +25,18 @@ Convert LLVM(C/C++/Rust) to Verilog
 
 LLVM Compiler Infrastructure in Rust
 
-## 3. Linear Programming Solver
+## 3. wopt
 
-coding ...
+[GitHub](https://github.com/LonlyWinter/wopt)
 
-<!-- 
+A Solver in Rust
+
 
 ## 4. TODO
 
-### Hardware
-
-- Logic Synthesis
-- P&R(Place and Route)
+- Gate-Level Netlist
 - GDSII
 
-### Software
-
-- Convert LLVM to CUDA
-
--->
 
 ## Author
 
