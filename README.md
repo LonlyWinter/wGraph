@@ -14,8 +14,9 @@ Convert LLVM(C/C++/Rust) to Verilog
 #### Examples
 
 - AES128
-- MNIST Training with [wnum](https://github.com/LonlyWinter/wnum)
-- AV1 Decoder: [coding ...](https://github.com/LonlyWinter/wav1d)
+- MNIST Training, build with [wnum](https://github.com/LonlyWinter/wnum)
+- Qwen3 Interface, build with [wnum](https://github.com/LonlyWinter/wnum) and [wopt](https://github.com/LonlyWinter/wopt)
+- AV1 Decoder, [coding ...](https://github.com/LonlyWinter/wav1d)
 
 ## 2. LLVM-Infra
 
