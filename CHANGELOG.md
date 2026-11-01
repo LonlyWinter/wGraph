@@ -1,7 +1,5 @@
-# wGraph Change Log
+## Version.20261101112440
 
-## Version.20260724173426
-
-open
+gate-level netlist
 
 
