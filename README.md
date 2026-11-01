@@ -1,12 +1,12 @@
 # wGraph（握图）
 
-> Hardware-Software Co-Design toolchain.
+> Hardware-Software Co-Design toolchain
 
 A compiler capable of converting different languages or instruction sets.
 
-## 1. HLS(High Level Synthesis)
+## 1. Usage
 
-Convert LLVM(C/C++/Rust) to Verilog
+Convert LLVM(C/C++/Rust) to Verilog/Netlist
 
 ![wGraph Cli](./doc/wgraph.png)
 
@@ -35,8 +35,8 @@ A Solver in Rust
 
 ## 4. TODO
 
-- Gate-Level Netlist
 - GDSII
+- NVIDIA PTX
 
 
 ## Author
